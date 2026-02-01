@@ -1,0 +1,3 @@
+#!/bin/bash
+# idles forever, 0 cpu usage
+sleep 999999999
